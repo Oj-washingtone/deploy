@@ -1,0 +1,25 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "deployment solution",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oj-washingtone/deploy.git"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "Washingtone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oj-washingtone/deploy/issues"
+  },
+  "homepage": "https://github.com/Oj-washingtone/deploy#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
